@@ -7,7 +7,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/03koios/AutoinviteDis
 [+] Star Simulator Beta
 [+] Shoe Simulator
 [+] Eating Simulator
-[+] Fall of Hell
 [+] Tower of hell
 [+] Tower of mistery
 [+] Ultimate Tower Defense
@@ -43,10 +42,6 @@ function Ui()
     if Pl == 6953291455 or Pl == 6953291455  then
         loadstring(game:HttpGet("https://raw.githubusercontent.com/03koios/EatingSimulator/main/README.md"))()
     end
-
-    if Pl == 1069951594 then
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/03koios/FallofHellAutoWin/main/README.md"))()
-    end   
 
     if Pl == 1962086868 then
         loadstring(game:HttpGet("https://raw.githubusercontent.com/03koios/TowerOfHell/main/README.md"))()
