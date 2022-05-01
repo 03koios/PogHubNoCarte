@@ -98,3 +98,8 @@ function Ui()
     if Pl == 5712833750 then
         loadstring(game:HttpGet("https://raw.githubusercontent.com/03koios/AnimalSimulator/main/README.md"))()
     end
+
+
+    if Pl == 318978013 then
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/03koios/KickOff/main/README.md"))()
+    end
