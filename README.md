@@ -13,20 +13,17 @@
 [+] Legends Of Speed
 [+] Base Battles
 [+] Pet Adventure Simulator!
-[+] Break In (Story)
 [+] Pet Simulator x
 [+] Shark Bite
 [+] Survive The Killers
 [+] Animal Simulator
+[+] Kick Off
 ]]
 
 --- Set Gui
 loadstring(game:HttpGet("https://pastebin.com/raw/Cs4Mxamd"))()
 
-function Ui()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-    end
-    local Pl = game.PlaceId
+   local Pl = game.PlaceId
     if Pl == 5327880096 then
         loadstring(game:HttpGet("https://raw.githubusercontent.com/03koios/OnlineBusinessSimulator2/main/README.md"))()
     end
@@ -70,11 +67,6 @@ function Ui()
     if Pl == 9280120396 then
         loadstring(game:HttpGet("https://raw.githubusercontent.com/03sAlt/PetAdventureSimulator/main/README.md"))()
     end
-
-    if Pl == 3851622790 then
-        loadstring(game:HttpGet("https://pastebin.com/raw/RneGAhg1"))()
-    end
-
 
     if Pl == 6284583030 then
         loadstring(game:HttpGet("https://raw.githubusercontent.com/03koios/PetSimulatorx/main/PetSimulatorXBobux"))()
