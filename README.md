@@ -1,6 +1,3 @@
---- invite Discord 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/03koios/AutoinviteDiscord03s/main/README.md"))()
-
 ----- MAP ------
 --[[
 [+] Online Business Simulator 2
@@ -49,7 +46,8 @@ function Ui()
 
     if Pl == 4954752502 then
         loadstring(game:HttpGet("https://raw.githubusercontent.com/03koios/TowerOfMistery/main/README.md"))()
-    end   
+   end
+   
     if Pl == 5902977746 then
         loadstring(game:HttpGet("https://raw.githubusercontent.com/03sAlt/UltimateTowerDefense/main/README.md"))()
     end 
@@ -93,7 +91,6 @@ function Ui()
     if Pl == 5712833750 then
         loadstring(game:HttpGet("https://raw.githubusercontent.com/03koios/AnimalSimulator/main/README.md"))()
     end
-
 
     if Pl == 318978013 then
         loadstring(game:HttpGet("https://raw.githubusercontent.com/03koios/KickOff/main/README.md"))()
