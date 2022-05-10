@@ -15,7 +15,6 @@
 [+] Pet Adventure Simulator!
 [+] Pet Simulator x
 [+] Shark Bite
-[+] Survive The Killers
 [+] Animal Simulator
 [+] Kick Off
 ]]
@@ -74,10 +73,6 @@ loadstring(game:HttpGet("https://pastebin.com/raw/Cs4Mxamd"))()
 
     if Pl == 734159876 then
         loadstring(game:HttpGet("https://raw.githubusercontent.com/03koios/SharkBite/main/BabyShark"))()
-    end
-
-    if Pl == 4580204640 then
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/03koios/SurviveTheKillerVip/main/README.md"))()
     end
 
     if Pl == 5712833750 then
